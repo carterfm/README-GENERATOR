@@ -36,7 +36,7 @@ const readmePrompt = () => {
         {
             type: 'list',
             message: 'Please select a license for your project: ',
-            choices: ['A', 'B', 'C', 'D'],
+            choices: ['Apache-2.0', 'BSD-2-Clause', 'BSD-3-Clause', 'GPL-2.0', 'GPL-3.0', 'LGPL-2.0', 'LGPL-2.1', 'LGPL-3.0', 'MIT', 'MPL-2.0', 'CDDL-1.0', 'EPL-2.0'],
             name: 'license'
         },
         {
@@ -94,11 +94,11 @@ ${test}
 
 ## License <a id="license"></a>
 
-This application's license is covered under ${license}.
+This application's license is covered under the ${license} license.
 
 ## Questions <a id="questions"></a>
 
-My GitHub profile is [${gitHub}](https://github.com/${gitHub}), and I can be reached for questions at [${email}](mailto:${email}).`
+My GitHub profile is [${gitHub}](https://github.com/${gitHub}), and I can be reached for questions via email at [${email}](mailto:${email}).`
 
 }
 
