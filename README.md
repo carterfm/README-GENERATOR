@@ -1,5 +1,5 @@
 
-# HTML GENERATOR ![](https://img.shields.io/badge/License-%22MIT%22-yellow.svg)
+# README-GENERATOR
 
 ## Table of Contents
 
@@ -13,33 +13,29 @@
 
 5. [Test instructions](#test)
 
-6. [License](#license)
-
-7. [Questions](#questions)
+6. [Questions](#questions)
 
 ## Description <a id="description"></a>
 
-A simple command line app that generates an HTML file based on user input.
+A simple command line app that generates a README file (in .md format) based on user input.
 
 ## Installation <a id="installation"></a>
 
-Clone this repository to your local device, then navigate to it in the terminal and type 'npm install' to acquire the required dependencies. 
+Clone this repository to your computer from GitHub, then navigate to your local directory for it in the git terminal and type 'npm install' to acquire its required dependencies (note: you must have node.js installed to use this app). 
 
 ## Usage <a id="usage"></a>
 
-In the git bash terminal, navigate to the repository where you saved the app. Type 'node index.js' and enter the information the terminal prompts you for. After responding to all the prompts, you will find your HTML file in the folder labeled 'Output'. 
+In the git terminal, navigate to the directory where you have cloned this project. Type 'node index.js' and enter the information the terminal prompts you for. After responding to all the prompts, you will find your README.md file in the 'output' folder of the directory. 
+
+[See here for a video walkthrough of the process](https://www.youtube.com/watch?v=HGIjQmngQg8).
 
 ## Contribution Guidelines <a id="contribution"></a>
 
-We are not accepting contributions at this time.
+I'm not accepting any contributions for this project, seeing as how it was a class homework project.
 
 ## Test Instructions <a id="test"></a>
 
-We have not yet developed any tests for this app.
-
-## License <a id="license"></a>
-
-This application's license is covered under the MIT license.
+I have not developed any tests for this application.
 
 ## Questions <a id="questions"></a>
 
