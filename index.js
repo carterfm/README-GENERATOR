@@ -104,7 +104,7 @@ My GitHub profile is [${gitHub}](https://github.com/${gitHub}), and I can be rea
 
 function init () {
     readmePrompt()
-        .then(data => fs.writeFile(".output/README.md", generateREADME(data), (err) => {
+        .then(data => fs.writeFile("./output/README.md", generateREADME(data), (err) => {
             if(err){
               throw err;
             }
