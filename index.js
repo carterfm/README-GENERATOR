@@ -104,11 +104,11 @@ My GitHub profile is [${gitHub}](https://github.com/${gitHub}), and I can be rea
 
 function init () {
     readmePrompt()
-        .then(data => fs.writeFile(`README.md`, generateREADME(data), (err) => {
+        .then(data => fs.writeFile(".output/README.md", generateREADME(data), (err) => {
             if(err){
               throw err;
             }
-            console.log(`wrote EXAMPLE.md`);
+            console.log(`wrote README.md`);
         }))
 }
 
