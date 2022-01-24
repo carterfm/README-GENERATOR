@@ -1,5 +1,5 @@
 
-# Placeholder name ![](https://img.shields.io/badge/License-%22GPL-2.0%22-yellow.svg)
+# Placeholder ![](https://img.shields.io/badge/License-%22MIT%22-yellow.svg)
 
 ## Table of Contents
 
@@ -19,28 +19,28 @@
 
 ## Description <a id="description"></a>
 
-Placeholder description
+Placeholder
 
 ## Installation <a id="installation"></a>
 
-Placeholder instructions
+PLaceHoLdEr
 
 ## Usage <a id="usage"></a>
 
-Placeholder information
+REDLOHECALP
 
 ## Contribution Guidelines <a id="contribution"></a>
 
-Placeholder guidelines
+No
 
 ## Test Instructions <a id="test"></a>
 
-Placeholder tests
+I refuse
 
 ## License <a id="license"></a>
 
-This application's license is covered under the GPL-2.0 license.
+This application's license is covered under the MIT license.
 
 ## Questions <a id="questions"></a>
 
-My GitHub profile is [placeholdername](https://github.com/placeholdername), and I can be reached for questions via email at [placeholder@email.com](mailto:placeholder@email.com).
+My GitHub profile is [sklasdjg](https://github.com/sklasdjg), and I can be reached for questions via email at [aklsdjf@sd;kljglka.com](mailto:aklsdjf@sd;kljglka.com).
